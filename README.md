@@ -6,12 +6,16 @@
 </p>
 
 🚀 Sobre mí
+
 🔭 Actualmente trabajo en proyectos que combinan diseño moderno con tecnologías avanzadas.
 🌱 Estoy aprendiendo nuevas herramientas y frameworks para mejorar mis habilidades como desarrolladora frontend.
 💬 Pregúntame sobre HTML5, CSS3, JavaScript, React y mucho más.
 👯 Me encantaría colaborar en proyectos que involucren desarrollo frontend o fullstack.
+
 📫 Cómo contactarme: iratxe92@gmail.com
+
 😄 Pronombres: Ella / Le
+
 ⚡ Datos curiosos: Soy una amante del café y disfruto explorando nuevas tecnologías en mi tiempo libre.
 
 🌐 Conéctate conmigo
