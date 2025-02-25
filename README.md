@@ -8,7 +8,7 @@
 🚀 Sobre mí
 🔭 Actualmente trabajo en proyectos que combinan diseño moderno con tecnologías avanzadas.
 🌱 Estoy aprendiendo nuevas herramientas y frameworks para mejorar mis habilidades como desarrolladora frontend.
-💬 Pregúntame sobre HTML5, CSS3, JavaScript, React, Node.js, Express, MongoDB, MySQL y mucho más.
+💬 Pregúntame sobre HTML5, CSS3, JavaScript, React y mucho más.
 👯 Me encantaría colaborar en proyectos que involucren desarrollo frontend o fullstack.
 📫 Cómo contactarme: iratxe92@gmail.com
 😄 Pronombres: Ella / Le
@@ -33,17 +33,8 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -51,20 +42,8 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -92,13 +71,16 @@ Tecnologías utilizadas: HTML, CSS, JavaScript, React.
 2. Sneakers Shopping
 Descripción: Proyecto realizado con JavaScript, en el que se incluye un carrito de la compra. Se pueden agregar y eliminar zapatillas del carrito.
 Tecnologías utilizadas: HTML, CSS, JavaScript.
-- **[Todo List App](https://github.com/iratxebl92/carroDeportivas)**
+- **[Sneakers Shopping](https://github.com/iratxebl92/carroDeportivas)**
 
 📚 Aprendizaje Continuo
 Actualmente estoy profundizando en:
-React : Me estoy enfocando en dominar patrones avanzados de React para crear aplicaciones web más interactivas y eficientes.
-TypeScript : Estoy aprendiendo TypeScript para escribir código más robusto, escalable y fácil de mantener, mejorando así la calidad del software que desarrollo.
-React Testing Library junto a Jest : Me estoy especializando en pruebas unitarias y de integración para garantizar la fiabilidad y estabilidad de mis aplicaciones.
+
+  React: Me estoy enfocando en dominar patrones avanzados de React para crear aplicaciones web más interactivas y eficientes.
+
+  TypeScript: Estoy aprendiendo TypeScript para escribir código más robusto, escalable y fácil de mantener, mejorando así la calidad del software que desarrollo.
+
+  React Testing Library junto a Jest: Me estoy especializando en pruebas unitarias y de integración para garantizar la fiabilidad y estabilidad de mis aplicaciones.
 
 🙏 Gracias por visitar mi perfil
 Espero que hayas encontrado interesante mi perfil. Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en ponerte en contacto conmigo. ¡Hasta pronto!
