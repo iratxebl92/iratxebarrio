@@ -80,9 +80,25 @@ Aquí tienes algunas de las tecnologías y herramientas con las que trabajo:
 </a>
 </p>
 
-📊 Estadísticas de GitHub
-Mira cómo ha sido mi contribución en GitHub hasta ahora:
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iratxebarrio&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+🎯 Proyectos Destacados
+Aquí algunos de los proyectos en los que he trabajado recientemente:
+
+1. Todo List App
+Descripción: Una aplicación de lista de tareas construida con React que permite agregar, editar, marcar como completadas y eliminar tareas. Incluye pruebas automatizadas con React Testing Library y Jest para asegurar su fiabilidad. Utilizo Context API para controlar el estado de la aplicación.
+Tecnologías utilizadas: HTML, CSS, JavaScript, React.
+- **[Todo List App](https://github.com/iratxebl92/todo-list-app)**
+  
+2. Sneakers Shopping
+Descripción: Proyecto realizado con JavaScript, en el que se incluye un carrito de la compra. Se pueden agregar y eliminar zapatillas del carrito.
+Tecnologías utilizadas: HTML, CSS, JavaScript.
+- **[Todo List App](https://github.com/iratxebl92/carroDeportivas)**
+
+📚 Aprendizaje Continuo
+Actualmente estoy profundizando en:
+React : Me estoy enfocando en dominar patrones avanzados de React para crear aplicaciones web más interactivas y eficientes.
+TypeScript : Estoy aprendiendo TypeScript para escribir código más robusto, escalable y fácil de mantener, mejorando así la calidad del software que desarrollo.
+React Testing Library junto a Jest : Me estoy especializando en pruebas unitarias y de integración para garantizar la fiabilidad y estabilidad de mis aplicaciones.
+
+🙏 Gracias por visitar mi perfil
+Espero que hayas encontrado interesante mi perfil. Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en ponerte en contacto conmigo. ¡Hasta pronto!
