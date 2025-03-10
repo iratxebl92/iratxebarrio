@@ -84,7 +84,7 @@ Actualmente estoy profundizando en:
 
   TypeScript: Estoy aprendiendo TypeScript para escribir código más robusto, escalable y fácil de mantener, mejorando así la calidad del software que desarrollo.
 
-  React Testing Library junto a Jest: Me estoy especializando en pruebas unitarias y de integración para garantizar la fiabilidad y estabilidad de mis aplicaciones.
+  React Testing Library junto a Vitest: Me estoy especializando en pruebas unitarias y de integración para garantizar la fiabilidad y estabilidad de mis aplicaciones.
 
 🙏 Gracias por visitar mi perfil
 Espero que hayas encontrado interesante mi perfil. Si tienes alguna pregunta o quieres colaborar en algún proyecto, no dudes en ponerte en contacto conmigo. ¡Hasta pronto!
